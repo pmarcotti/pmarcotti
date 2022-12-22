@@ -5,6 +5,9 @@ Acessar Wiki
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
+[Team](./01-team)
+
+[./wiki/Team](./01-team)
 
 <!--
 **pmarcotti/pmarcotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
