@@ -9,6 +9,8 @@ Acessar Wiki
 
 [pmarcotti/wiki/Team](./01-team)
 
+[pmarcotti/wiki](./README.md)
+
 <!--
 **pmarcotti/pmarcotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
