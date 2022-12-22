@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### Feito por o-danilo
 
+Acessar Wiki
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+
 <!--
 **pmarcotti/pmarcotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
