@@ -7,6 +7,10 @@ Acessar Wiki
 
 [pmarcotti/wiki/]
 
+[Team](./01-team)
+
+[wiki][Team](./01-team)
+
 [pmarcotti/wiki/](./README.md)
 
 [pmarcotti](./teste.md)
