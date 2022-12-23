@@ -7,6 +7,8 @@ Acessar Wiki
 
 [pmarcotti/wiki/](./README.md)
 
+[pmarcotti](./teste.md)
+
 <!--
 **pmarcotti/pmarcotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
