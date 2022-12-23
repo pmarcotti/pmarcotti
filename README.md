@@ -5,11 +5,8 @@ Acessar Wiki
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-[pmarcotti/wiki/]
 
-[Team](./01-team)
-
-[wiki][Team](./01-team)
+[pmarcotti](/wiki/01-team)
 
 [pmarcotti/wiki/](./README.md)
 
