@@ -6,7 +6,7 @@ Acessar Wiki
 - 🌱 I’m currently learning ...
 
 
-[pmarcotti](/wiki/01-team)
+[pmarcotti](https://github.com/pmarcotti/wiki/tree/master/01-team)
 
 [pmarcotti/wiki/](./README.md)
 
