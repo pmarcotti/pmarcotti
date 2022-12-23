@@ -6,10 +6,12 @@ Acessar Wiki
 - 🌱 I’m currently learning ...
 
 
-[pmarcotti](https://github.com/pmarcotti/wiki/tree/master/01-team)
+[pmarcotti](https://github.com/pmarcotti/wiki/)
 
+NAO FUNCIONA
 [pmarcotti/wiki/](./README.md)
 
+FUNCIONA NO MESMO REPOSITORIO
 [pmarcotti](./teste.md)
 
 <!--
