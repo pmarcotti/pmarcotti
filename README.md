@@ -1,6 +1,3 @@
-### Hi there 👋
-### Feito por o-danilo
-
 Acessar Wiki
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+### Feito a primeira versão pelo Danilo Oliveira no HotPubSA o-danilo
