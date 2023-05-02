@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [Acesso ao projeto](https://github.com/marlissonls/trilha_python/tree/modulo_06/M6%20-%20python_database/mongo_db)
+- [Acesso ao projeto](https://github.com/pmarcotti/mongo_db)
 
-[INÍCIO🔙](https://github.com/marlissonls/trilha_python/tree/main)
+[INÍCIO🔙](https://github.com/pmarcotti)
