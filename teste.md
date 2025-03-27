@@ -1,7 +1,7 @@
 Este eh um teste
 Vamos verificar
 
-# Eu sou PAULO MARCOTTI
+# Eu sou Prof. PAULO MARCOTTI disciplina Git
 
 ## Perfil do Prof Paulo Marcotti no GitHub
 
