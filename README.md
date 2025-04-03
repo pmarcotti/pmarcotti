@@ -1,4 +1,8 @@
-Acessar Wiki
+# Prof. Paulo Marcotti (Engenheiro e Consultor e Professor)
+
+Professor das Faculdades Integradas Campos Salles, da FIAP e do Instituto Alpha Lumen.
+
+## Acessar Wiki
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
@@ -33,7 +37,8 @@ Here are some ideas to get you started:
 
 🌟 "Detalhe, Qualidade. Cada pixel importa."
 
-Paulo Marcotti engenheiro, consultor TI, desenvolvedor, analista, professor.
+Paulo Marcotti engenheiro, consultor TI, 
+desenvolvedor, analista, professor.
 
 👨‍💻 Perfil.
 
